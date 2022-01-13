@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate Programmer Developer from Buenos Aires, Argentina.</h3>
 
-- 💻 I’m currently learning in a course of Java that I practice as well POO, JDBC, JEE, Servlets and JSP's with other languages like HTML5, CSS, JavaScript, MySql, Spring and Angular**
+- 💻 I’m currently learning in a course of Java that I practice as well POO, JDBC, JEE, Servlets and JSP's with other languages like HTML5, CSS, JavaScript, MySql, Spring and Angular.
 
 - ✉ How to reach me **davidmarquez2222@outlook.com**
 
