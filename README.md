@@ -12,7 +12,7 @@
   </p>
 <sector>  
   
-<sector style="margin-top:100px">
+<sector>
   <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 
       <a href="https://angular.io" target="_blank" rel="noreferrer"> 
