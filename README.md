@@ -5,15 +5,14 @@
 
 - ✉ How to reach me **davidmarquez2222@outlook.com**
 
-</br>
 <sector>
   <h3 align="left">Connect with me:</h3>
   <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/david-marquez-213673163/" target="blank"><img align="center"         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-marquez-213673163/" height="30" width="40" /></a>
   </p>
-<sector
- </br>      
-<sector>
+<sector>  
+  
+<sector style={ margin-top = "20px"}>
   <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 
       <a href="https://angular.io" target="_blank" rel="noreferrer"> 
