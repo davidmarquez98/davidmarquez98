@@ -4,7 +4,7 @@
 - 💻 I’m currently learning in a course of Java that I practice as well POO, JDBC, Servlets and JSP's, JEE with other languages like HTML5, CSS3, JavaScript, MySql. Also, I'm studying the use of <b>frameworks</b> as Spring and Angular.
 
 - ✉ How to reach me **davidmarquez2222@outlook.com**
-
+<hr/>
 <sector>
   <h3 align="left">Connect with me:</h3>
   <p align="left">
