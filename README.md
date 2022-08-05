@@ -15,7 +15,7 @@
 <sector>
   <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 
-    <code style="padding:5px"><img height="50" src="/images/java.logo.png"></code>
+    <code><img height="30" src="/images/java.logo.png"></code>
     <code><img height="30" src="/images/html-logo.png"></code>
     <code><img height="30" src="/images/css3-logo.png"></code>
     <code><img height="30" src="/images/javascript-logo.png"></code>
