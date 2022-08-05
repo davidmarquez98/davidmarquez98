@@ -20,7 +20,7 @@
     <code><img height="50" src="images/javascript-logo.png"></code>
     <code><img height="50" src="images/typescript-logo.png"></code>  
     <code><img height="50" src="images/spring-logo.png"></code>
-    <code><img height="60" src="images/-logo.png"></code>
+    <code><img height="60" src="images/angular-logo.png"></code>
     <code><img height="50" src="images/mysql-logo.png"></code>
   </p>
 <sector>
