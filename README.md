@@ -16,13 +16,13 @@
   <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 
     <code><img height="50" src="images/java-logo.png"></code>
-    <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/springboot/springboot.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+    <code><img height="50" src="images/html5-logo.png"></code>
+    <code><img height="20" src="images/css-logo.png"></code>
+    <code><img height="20" src="images/javascript-logo.png"></code>
+    <code><img height="20" src="images/typescript-logo.png"></code>
+    <code><img height="20" src="images/spring-logo.png"></code>
+    <code><img height="20" src="images/angular-logo.png"></code>
+    <code><img height="20" src="images/mysql-logo.png"></code>
   </p>
 <sector>
 
