@@ -17,12 +17,12 @@
   <p align="left"> 
     <code><img height="50" src="images/java-logo.png"></code>
     <code><img height="50" src="images/html5-logo.png"></code>
-    <code><img height="20" src="images/css-logo.png"></code>
-    <code><img height="20" src="images/javascript-logo.png"></code>
-    <code><img height="20" src="images/typescript-logo.png"></code>
-    <code><img height="20" src="images/spring-logo.png"></code>
-    <code><img height="20" src="images/angular-logo.png"></code>
-    <code><img height="20" src="images/mysql-logo.png"></code>
+    <code><img height="50" src="images/css-logo.png"></code>
+    <code><img height="50" src="images/javascript-logo.png"></code>
+    <code><img height="50" src="images/typescript-logo.png"></code>
+    <code><img height="50" src="images/spring-logo.png"></code>
+    <code><img height="50" src="images/angular-logo.png"></code>
+    <code><img height="50" src="images/mysql-logo.png"></code>
   </p>
 <sector>
 
