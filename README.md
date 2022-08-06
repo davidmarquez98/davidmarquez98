@@ -5,7 +5,7 @@
 
 - ✉ How to reach me **davidmarquez2222@outlook.com**
 
-- There is my CV uploaded: <a href="/CV/DavidMarquez_CV.pdf">Click to Download CV!</a>
+- There is my CV uploaded: <a href="/CV/DavidMarquez_CV.pdf">Click to See CV!</a>
 
 <sector>
   <h3 align="left">Connect with me:</h3>
