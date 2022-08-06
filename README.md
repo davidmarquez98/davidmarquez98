@@ -17,14 +17,14 @@
 <sector>
   <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 
-    <code><img height="30" src="/images/java.logo.png"></code> Java
-    <code><img height="30" src="/images/html-logo.png"></code>
-    <code><img height="30" src="/images/css3-logo.png"></code>
-    <code><img height="30" src="/images/javascript-logo.png"></code>
-    <code><img height="30" src="/images/typescript-logo.png"></code>  
-    <code><img height="30" src="/images/spring-logo.png"></code>
-    <code><img height="30" src="/images/angular-logo.png"></code>
-    <code><img height="30" src="/images/mysql-logo.png"></code>
+    -<code><img height="30" src="/images/java.logo.png"></code> Java
+    -<code><img height="30" src="/images/html-logo.png"></code>HTML5
+    -<code><img height="30" src="/images/css3-logo.png"></code>CSS3
+    -<code><img height="30" src="/images/javascript-logo.png"></code>JavaScript
+    -<code><img height="30" src="/images/typescript-logo.png"></code>TypeScript
+    -<code><img height="30" src="/images/spring-logo.png"></code>Spring
+    -<code><img height="30" src="/images/angular-logo.png"></code>Angular
+    -<code><img height="30" src="/images/mysql-logo.png"></code>MySql
   </p>
 <sector>
 
