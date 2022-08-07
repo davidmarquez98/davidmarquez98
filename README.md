@@ -18,14 +18,14 @@
   <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 
     <ul>
-      <li><code><img height="30" src="/images/java.logo.png"></code> </li>
-      <li><code><img height="30" src="/images/html-logo.png"></code></li>
-      <li><code><img height="30" src="/images/css3-logo.png"></code></li>
-      <li><code><img height="30" src="/images/javascript-logo.png"></code></li>
-      <li><code><img height="30" src="/images/typescript-logo.png"></code></li>
-      <li><code><img height="30" src="/images/spring-logo.png"></code></li>
-      <li><code><img height="30" src="/images/angular-logo.png"></code></li>
-      <li><code><img height="30" src="/images/mysql-logo.png"></code></li>
+      <code><img height="30" src="/images/java.logo.png"></code> 
+      <code><img height="30" src="/images/html-logo.png"></code>
+      <code><img height="30" src="/images/css3-logo.png"></code>
+      <code><img height="30" src="/images/javascript-logo.png"></code>
+      <code><img height="30" src="/images/typescript-logo.png"></code>
+      <code><img height="30" src="/images/spring-logo.png"></code>
+      <code><img height="30" src="/images/angular-logo.png"></code>
+      <code><img height="30" src="/images/mysql-logo.png"></code>
     </ul>
   </p>
 <sector>
