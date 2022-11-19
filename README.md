@@ -7,6 +7,9 @@
 
 - There is my CV uploaded: <a href="/CV/DavidMarquez_CV.pdf">Click to See CV!</a>
 
+- You can see if you want my first responsive web page portfolio which I used basic FrontEnds´ tools like HTML, CSS and JavaScript: 
+  <a href="https://davidmarquez98.github.io/">My Portfolio!</a>
+
 <sector>
   <h3 align="left">Connect with me:</h3>
   <p align="left">
