@@ -15,7 +15,8 @@
   <p align="left">
   <a href="https://www.linkedin.com/in/david-ariel-marquez/" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-marquez-213673163/" height="25" /></a>
   </p>
-<sector>  
+<sector> 
+  <img height="100" src="/images/japan.gif">
 <hr/>
 <sector>
   <h3 align="left">Languages and Tools:</h3>
@@ -30,5 +31,5 @@
       <code><img height="30" src="/images/mysql-logo.png"></code>
   </p>
 <sector>
-<img height="100" src="/images/japan.gif">
+
 
