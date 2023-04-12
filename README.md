@@ -30,4 +30,5 @@
       <code><img height="30" src="/images/mysql-logo.png"></code>
   </p>
 <sector>
+      <code><img height="100" src="/images/japan.gif"></code>
 
