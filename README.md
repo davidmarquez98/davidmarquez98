@@ -11,12 +11,14 @@
   <a href="https://davidmarquez98.github.io/" target="blank">My Portfolio!</a>
 
 <sector>
+  <div style="display:flex, flex-direction:row">
   <h3 align="left">Connect with me:</h3>
+  <img height="100" src="/images/japan.gif">
+  </div>
   <p align="left">
   <a href="https://www.linkedin.com/in/david-ariel-marquez/" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-marquez-213673163/" height="25" /></a>
   </p>
 <sector> 
-  <img height="100" src="/images/japan.gif">
 <hr/>
 <sector>
   <h3 align="left">Languages and Tools:</h3>
