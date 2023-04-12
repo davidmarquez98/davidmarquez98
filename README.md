@@ -1,4 +1,3 @@
-<img height="100" src="/images/japan.gif">
 <h1 align="center">👋Hi, I'm David</h1>
 <h3 align="center">👨‍💻 A passionate Programmer Developer from Buenos Aires, Argentina.</h3>
 
