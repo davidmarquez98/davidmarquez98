@@ -26,8 +26,8 @@
       <code><img height="30" src="/images/vue-logo.png"></code>&nbsp;
       <code><img height="30" src="/images/react-logo.png"></code>&nbsp;
       <code><img height="30" src="/images/kubernetes-logo.png"></code>
-      <code><img height="30" src="/images/docker-logo.png"></code>
-      <code><img height="10" src="/images/oracle-logo.png"></code>
+      <code><img height="35" src="/images/docker-logo.png"></code>
+      <code><img height="15" src="/images/oracle-logo.png"></code>
   </p>
 <sector>
 
