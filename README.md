@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working as a Software Developer in Tecval, using tools such as Quarkus, VueJs, Oracle. I did a course on Java where I practiced as well POO, JDBC, Servlets and JSP's, JEE with other languages and tools like HTML5, CSS3, JavaScript and MySql. Also, I studied the use of <b>frameworks</b> as Spring and Angular.
 
-- ✉ How to reach me **davidmarquez2222@outlook.com**
+- ✉ How to reach me **davidarielmarquez@outlook.com**
 
 - There is my CV uploaded: <a href="/CV/DavidMarquez_CV.pdf">Click to See CV!</a>
 
