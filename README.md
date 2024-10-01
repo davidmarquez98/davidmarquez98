@@ -7,7 +7,7 @@ Hi, I'm David 👋 Welcome to my GitHub profile, here I develop some apps or tec
   
 - ✨ [Portfolio](https://davidmarquez98.github.io/portafolio/)
   
-- 🌱 Hobbies: playing videogames, watching series and films, listening to music, reading mangas.
+- 🎮 Hobbies: playing videogames, watching series and films, listening to music, reading mangas.
 
 <hr/>
 
