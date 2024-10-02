@@ -4,6 +4,6 @@ Hi, I'm David 👋 Welcome to my GitHub profile, here I develop some apps or tec
   
 - 👔 Currently working as a Software Developer in Tecval, using tools such as Quarkus, VueJs, Oracle.
 
-- 🎮 Hobbies: playing videogames, watching series and films, listening to music, reading mangas.
+- 🧉 Hobbies: playing videogames, watching series and films, listening to music, reading mangas.
   
-- 🧉 [Portfolio](https://davidmarquez98.github.io/portafolio/)
+- 💻 [Portfolio](https://davidmarquez98.github.io/portafolio/)
