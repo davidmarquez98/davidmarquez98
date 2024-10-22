@@ -2,7 +2,7 @@ Hi, I'm David 👋 Welcome to my GitHub profile, here I develop some apps or tec
 
 - 👨‍💻 Passionate Full Stack Developer.
   
-- 👔 Currently working as a Software Developer in Tecval, using tools such as Quarkus, VueJs, Oracle.
+- 👔 Currently working as a Software Developer in Flech Tech SRL.
 
 - 🧉 Hobbies: playing videogames, watching series and films, listening to music, reading mangas.
   
