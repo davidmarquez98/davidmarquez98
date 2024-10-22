@@ -2,7 +2,7 @@ Hi, I'm David 👋 Welcome to my GitHub profile, here I develop some apps or tec
 
 - 👨‍💻 Passionate Full Stack Developer.
   
-- 👔 Currently working as a Software Developer in Flech Tech SRL.
+- 👔 Currently working as a Software Developer in Flech Tech ARG.
 
 - 🧉 Hobbies: playing videogames, watching series and films, listening to music, reading mangas.
   
