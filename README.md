@@ -8,4 +8,4 @@ Hi, I'm David 👋 Welcome to my GitHub profile, here I develop some apps or tec
   
 - 💻 [Portfolio](https://davidmarquez98.github.io/portafolio/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomingoAlvarez99&locale=es&layout=compact&show_icons=true&title_color=151515&text_color=848080)](https://https://github.com/davidmarquez98?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmarquez98&locale=es&layout=compact&show_icons=true&title_color=151515&text_color=848080)](https://https://github.com/davidmarquez98?tab=repositories)
